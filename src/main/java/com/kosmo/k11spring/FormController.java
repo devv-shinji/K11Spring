@@ -69,7 +69,7 @@ public class FormController {
 			@RequestParam("name") String name,
 			@RequestParam("id") String id,
 			@RequestParam("pw") String pw,
-			@RequestParam("eamil") String email) {
+			@RequestParam("email") String email) {
 		
 		MemberDTO memberDTO = new MemberDTO();
 		memberDTO.setId(id);

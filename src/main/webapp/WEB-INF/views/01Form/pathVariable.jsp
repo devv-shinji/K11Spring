@@ -32,6 +32,7 @@ $(function(){
 		현재 "./form/gildong/길동"과 같은 요청명은 ../를 경로에 추가하여
 		상위디렉토리로 이동해야 한다.
 		 -->
+		<!-- http://localhost:8080/spring/images/4.png -->
 		<div class="row mt-5">
 			<h3>이미지 경로 확인</h3>
 			<!-- 파라미터가 추가되어 웹브라우저 경로의 depth가 늘어나게 된다 -->
